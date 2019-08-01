@@ -3,6 +3,7 @@ package com.bjs.java8.part03;
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.IOException;
+import java.text.MessageFormat;
 
 /**
  * @Description
@@ -15,6 +16,7 @@ public class Demo1_ProcessorFile {
         processorFile((br) -> br.readLine());
         // 处理两行
         processorFile((br) -> br.readLine() + br.readLine());
+
     }
 
     public static String processorFile(BufferedReaderProcessor p) throws IOException {

@@ -1,6 +1,6 @@
 package com.bjs.java8.part02;
 
-import com.bjs.java8.park01.Apple;
+import com.bjs.java8.part01.Apple;
 
 import java.util.ArrayList;
 import java.util.List;

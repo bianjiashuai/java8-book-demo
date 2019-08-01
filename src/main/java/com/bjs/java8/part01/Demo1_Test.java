@@ -1,4 +1,4 @@
-package com.bjs.java8.park01;
+package com.bjs.java8.part01;
 
 import java.io.File;
 import java.util.ArrayList;
